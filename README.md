@@ -18,9 +18,6 @@ As a computer science student, I actively contribute to building engineering pro
   - [Business link](https://share.google/hPzgrxqf2SV4wJ8Dk)
 
 ### Skills
-
-Below each skill is shown as a single clickable tile (image only). The visible text labels have been removed per your request; links are preserved so clicking an icon opens the target. Hover the icon to see its title (tool-tip). For Proteus and Circuit Designer I used generic titles: "Proteus (Generic)" and "Circuit Designer (Generic)". The Cirkit image you supplied will be added to assets/cirkit.png and Proteus will use assets/proteus.png (placeholder) when you confirm.
-
 Languages, Frameworks & Tools
 
 <p align="left">
