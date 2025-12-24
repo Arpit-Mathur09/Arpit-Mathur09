@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IoT and C++ developer
 -------------
 
-As a computer science student, I actively contribute int building engineering projects in my business and academics, specializing in software, IoT and Firmware Development, where my hands-on experience and dedication to staying current with technology trends drive my passion for crafting innovative solutions.
+As a computer science student, I actively contribute in building engineering projects in my business and academics, specializing in software, IoT and Firmware Development, where my hands-on experience and dedication to staying current with technology trends drive my passion for crafting innovative solutions.
 
 * 🌱  I'm currently learning Web development.
 * 🤝  I'm open to collaborating on IoT and C++ projects.
