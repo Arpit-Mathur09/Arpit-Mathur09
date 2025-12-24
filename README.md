@@ -68,7 +68,7 @@ CAD & Fabrication
     <img src="https://img.shields.io/badge/-3D%20Printing-ff6f61?style=flat" alt="3D Printing" />
   </a>
   <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer" title="Proteus (Generic)">
- <img src="https://img.shields.io/badge/-CirkitStudio-4b7bec?style=flat&logoUrl=https%3A%2F%2Fwww.cirkitstudio.com%2Ffavicon.ico" alt="CirkitStudio (Circuit Designer)" />
+ <img src="https://img.shields.io/badge/-Proteus-0b6fa4?style=flat" alt="Proteus" />
   </a>
   <a href="https://kicad.org/" target="_blank" rel="noreferrer" title="KiCad">
     <img src="https://img.shields.io/badge/-KiCad-FEBA2E?style=flat&logo=kicad&logoColor=black" alt="KiCad" />
