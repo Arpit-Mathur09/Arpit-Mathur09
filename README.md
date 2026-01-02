@@ -6,16 +6,20 @@ You can click the Preview link to take a look at your changes.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Arpit Mathur
 =================================================================
 
-IoT and C++ developer
----------------------
+IoT and Firmware Developer
+--------------------------
 
 As a computer science student, I actively contribute to building engineering projects in my business and academics, specializing in software, IoT and firmware development. I have hands-on experience in embedded systems, GUI development, and CAD for hardware design.
 
-- 🌱 I'm currently learning Web development.
-- 🤝 I'm open to collaborating on IoT and C++ projects.
+- 👔 I'm woking as Firmware and IoT Developer
+- 🌱 I'm currently learning Firmware development & AI.
+- 🤝 I'm open to collaborating on IoT and Firmware projects.
 - 📫 Reach me:
-  - [Email](mailto:786mathurarpit@gmail.com)
-  - [Business link](https://share.google/hPzgrxqf2SV4wJ8Dk)
+  - ✉️ [Email](mailto:786mathurarpit@gmail.com)
+  - 📍 [Business link](https://share.google/hPzgrxqf2SV4wJ8Dk)
+  - 🙍🏻 [Linkedin Profile](https://www.linkedin.com/in/-arpit-mathur-/)
+  - ▶️ [YouTube](https://youtube.com/@mathurelectronics?si=uaUeyO3EBIZ6v8K-)
+  - 📸 [Instagram](https://instagram.com/mathur_electronics)
 
 ### Skills
 Languages, Frameworks & Tools
@@ -24,20 +28,34 @@ Languages, Frameworks & Tools
   <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer" title="C++">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
   </a>
+  <a href="https://python.org" target="_blank" rel="noreferrer" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer" title="React">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
   </a>
+   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="Next.js">
+    <img src="https://avatars.githubusercontent.com/u/126103961?s=200&v=4" width="36" height="36" alt="Next.js" />
+  </a>
+  
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEn14BgFa2sAFmWsqyOGeSr_ptnSAdZ-dhIxjM5m9zw&s" width="36" height="36" alt="Vercel" />
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer" title="Supabase">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGZd-DfNy0OM3ob6tkjI6IpWqxexE9k3ANxg&s" width="36" height="36" alt="Supabase" />
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
   </a>
+ 
   <a href="https://www.latex-project.org" target="_blank" rel="noreferrer" title="LaTeX">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="36" height="36" alt="LaTeX" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzgvqJEz0QjlqBtoHrH672PDYiGyWEQlfIg&s" width="36" height="36" alt="LaTeX" />
   </a>
 </p>
 
@@ -118,4 +136,4 @@ If this preview looks right, reply:
 --->
 
 
-_Last updated: 2025-12-24_
+_Last updated: 2-01-26_
