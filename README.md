@@ -16,11 +16,10 @@ As a computer science student, I actively contribute to building engineering pro
 - 🤝 I'm open to collaborating on IoT and Firmware projects.
 - 📫 Reach me:
   - ✉️ [Email](mailto:786mathurarpit@gmail.com)
-  - 📍 [Business link](https://share.google/hPzgrxqf2SV4wJ8Dk)
+  <!--- 📍 [Business link](https://share.google/hPzgrxqf2SV4wJ8Dk)
   - 🙍🏻 [Linkedin Profile](https://www.linkedin.com/in/-arpit-mathur-/)
   - ▶️ [YouTube](https://youtube.com/@mathurelectronics?si=uaUeyO3EBIZ6v8K-)
-  - 📸 [Instagram](https://instagram.com/mathur_electronics)
-
+  - 📸 [Instagram](https://instagram.com/mathur_electronics)--->
 ### Skills
 Languages, Frameworks & Tools
 
